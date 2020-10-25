@@ -1,4 +1,6 @@
 <html>
 <head></head>
-<body></body>
+<body>
+	<h1>Это главная страница сайта ArtPress</h1>
+</body>
 </html>
